@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0033/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 漸備一切智德經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0285.xml
+    old_id: T10n0285
+hash: sha256:9d6834bc42b33a150c4b2f7115f6d98671bf95fc537bd1befb76130e06b578ca

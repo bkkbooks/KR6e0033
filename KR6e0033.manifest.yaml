@@ -1,0 +1,217 @@
+canonical_identifier: bkk:krp/KR6e0033/v1
+canonical_location: https://kanripo.org/bkk/KR6e0033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 漸備一切智德經
+  identifiers:
+    alt_id:
+    - T10n0285
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0285.xml
+    old_id: T10n0285
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 宮
+  label: 宮
+  source_xml_id: wit5
+- short: 聖
+  label: 聖
+  source_xml_id: wit1
+- short: 聖乙
+  label: 聖乙
+  source_xml_id: wit6
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit7
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit8
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0033_000.yaml, hash: 'sha256:9d6834bc42b33a150c4b2f7115f6d98671bf95fc537bd1befb76130e06b578ca'}
+  - {seq: 1, filename: KR6e0033_001.yaml, hash: 'sha256:dff5597029725156fa2e1e2f31835324fbed43437f7aeceb7d30b5cd4cd3c118'}
+  - {seq: 2, filename: KR6e0033_002.yaml, hash: 'sha256:36535984897e939dfb2b789a7515610aaddf3d39141e44193c0983358570b5e5'}
+  - {seq: 3, filename: KR6e0033_003.yaml, hash: 'sha256:4fc338a1640dbcc045635dffe300c2828fed04dca7a71ad49c327b2b518c0647'}
+  - {seq: 4, filename: KR6e0033_004.yaml, hash: 'sha256:6f3adecd0cf41b1edc767072cc32ab51c0d139a73aa7663988d026072385ec09'}
+  - {seq: 5, filename: KR6e0033_005.yaml, hash: 'sha256:3aebc96380f75615fb1d38cbb91bca375aa8966440a675eaa794e230e5567d5e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0033_001.markers.yaml, hash: 'sha256:5cda3b5d02368dc7aed998246cf3a857e49e23cd49304ccac734ea8787fd31da'}
+  - {seq: 2, role: markers, filename: assets/KR6e0033_002.markers.yaml, hash: 'sha256:a1ae6ad5c6b3df7bdd09c429738c344bf19e378b13b12c2b5df116850130a638'}
+  - {seq: 3, role: markers, filename: assets/KR6e0033_003.markers.yaml, hash: 'sha256:addbef932c450e4487f07d0ca976f661de996bfb4ffd1526da03c256195e9335'}
+  - {seq: 4, role: markers, filename: assets/KR6e0033_004.markers.yaml, hash: 'sha256:4904318b20eddb4b5ac29deff5ebba3105355031afebfad7941b41a9650f6917'}
+  - {seq: 5, role: markers, filename: assets/KR6e0033_005.markers.yaml, hash: 'sha256:7bcc7eae0eac6be20b9d78282b12fdb4c588581cf14fc47b189eefad457279de'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0033_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12974
+  label: '漸備一切智德經卷第一
+
+
+    　　　　　　　　一名十住，又名大慧光三昧'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0033_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 初發意悅豫住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0033_T_001-mulu-2
+    span:
+    - body
+    - 9372
+    - 9372
+  label: 2 離垢住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0033_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5699
+  label: 漸備一切智德經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0033_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 3 興光住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0033_T_002-mulu-2
+    span:
+    - body
+    - 3182
+    - 3182
+  label: 4 暉曜住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0033_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6858
+  label: 漸備一切智德經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0033_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 5 難勝住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0033_T_003-mulu-2
+    span:
+    - body
+    - 3166
+    - 3166
+  label: 6 目前住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0033_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 14124
+  label: 漸備一切智德經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0033_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 7 玄妙住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0033_T_004-mulu-2
+    span:
+    - body
+    - 4299
+    - 4299
+  label: 8 不動住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0033_T_004-mulu-3
+    span:
+    - body
+    - 8912
+    - 8912
+  label: 9 善哉意住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0033_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 9860
+  label: 漸備一切智德經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0033_T_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 10 金剛藏問菩薩住品
+  type: mulu
+  level: 1
+hash: sha256:0a1d6945b14449303c2a74ab1b479195a728e1458b8b1c77196d6ceccb30ae67
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
